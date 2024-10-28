@@ -1,9 +1,11 @@
 {
   "tasks": {
-    "start": "deno run --allow-net --allow-read --allow-write --allow-env main.ts"
+    "start": "clear && deno run --allow-net --allow-import --allow-read --allow-write --allow-env --allow-run main.ts",
+    "test": "clear && deno test --allow-net --allow-import --allow-read --allow-write --allow-env --allow-run  **/*.test.ts"
   },
   "imports": {
     "cheerio": "npm:cheerio@1.0.0-rc.12",
-    "axios": "npm:axios@1.6.7"
+    "axios": "npm:axios@1.6.7",
+    "deno_dom": "https://deno.land/x/deno_dom/deno-dom-wasm.ts"
   }
 }
