@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "start": "deno run --allow-net --allow-read --allow-write --allow-env main.ts"
+  },
+  "imports": {
+    "cheerio": "npm:cheerio@1.0.0-rc.12",
+    "axios": "npm:axios@1.6.7"
+  }
+}
