@@ -1,0 +1,1857 @@
+[
+    {
+        "cource_code": "BE-111-1",
+        "course_name": "Innføring i finansregnskap",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "BE-209-1",
+        "course_name": "Finansregnskap og rapportering",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "BE-110 Innføring i økonomisk styring og BE-111 Inn.."
+    },
+    {
+        "cource_code": "BE-316-1",
+        "course_name": "Valuation",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "BE-111 Introduction to Financial Accounting, BE-20.."
+    },
+    {
+        "cource_code": "BE-318-1",
+        "course_name": "Management Accounting for Decision Makers",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "BE-111 Introduction to Financial Accounting, BE-11.."
+    },
+    {
+        "cource_code": "BIO104-1",
+        "course_name": "Human fysiologi og anatomi",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "R1/(S1+S2) og enten (R1+R2) eller (FYS1+2) eller (K.."
+    },
+    {
+        "cource_code": "BIO111-1",
+        "course_name": "Cellebiologi med genetikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Matematikk R1 (eller matematikk S1og S2) og ente.."
+    },
+    {
+        "cource_code": "BIO201-1",
+        "course_name": "Akvatisk økologi",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "BIO112 Introduksjon til biologien"
+    },
+    {
+        "cource_code": "BIO204-1",
+        "course_name": "Zoofysiologi",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "BIO103 Zoology, BIO104 Human Physiology and An.."
+    },
+    {
+        "cource_code": "BIO206-1",
+        "course_name": "Generell økologi",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "R1/(S1+S2) og enten (R1+R2) eller (FYS1+2) eller (K.."
+    },
+    {
+        "cource_code": "BIO207-1",
+        "course_name": "Marin bevaringsbiologi",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "R1/(S1+S2) og enten (R1+R2) eller (FYS1+2) eller (K.."
+    },
+    {
+        "cource_code": "BIO406-1",
+        "course_name": "Scientific Writing",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som opptak til masterprogrammet"
+    },
+    {
+        "cource_code": "BIO407-1",
+        "course_name": "Applied Fish Ecology",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BIO413-1",
+        "course_name": "Coastal Benthic Ecology",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BIO415-1",
+        "course_name": "Study Design, Data Analysis, and Reproducible Science",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BV-400-1",
+        "course_name": "Beslutningsprosesser i kontekst",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BV-500-1",
+        "course_name": "Veiledning og myndiggjøring",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BYG126-G",
+        "course_name": "Anleggsteknikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "BYG127-G",
+        "course_name": "Teknisk design",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BYG225-G",
+        "course_name": "Prosjektledelse med Lean Construction",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BYG226-G",
+        "course_name": "Vann- og avløpsteknikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "BYG227-G",
+        "course_name": "Byggeteknikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BYG228-G",
+        "course_name": "Mekanikk ll",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BYG229-G",
+        "course_name": "Bygningsfysikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BYG308-G",
+        "course_name": "Konstruksjonsteknikk l - Betong",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BYG309-G",
+        "course_name": "Konstruksjonsteknikk ll - Stål",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "BYG310-G",
+        "course_name": "Konstruksjonsteknikk III - Tre",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BYG311-G",
+        "course_name": "Betongrehabilitering",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "BYG312-G",
+        "course_name": "Arealplan",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "BYG313-G",
+        "course_name": "Vegteknologi",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "BYG314-1",
+        "course_name": "Bachelorstudent i forskning",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Samme som for Byggdesign, bachelorprogram."
+    },
+    {
+        "cource_code": "BYG404-G",
+        "course_name": "Livsløpsanalyse av konstruksjoner",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskrav som for masterprogram i bygg"
+    },
+    {
+        "cource_code": "BYG405-G",
+        "course_name": "Høyytelsesmaterialer",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravet er det samme som for master bygg"
+    },
+    {
+        "cource_code": "BYG504-G",
+        "course_name": "Geoteknikk ll",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravet er det samme som master bygg."
+    },
+    {
+        "cource_code": "BYG511-G",
+        "course_name": "Vegteknologi II",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravet er det samme som master bygg"
+    },
+    {
+        "cource_code": "BYG512-G",
+        "course_name": "Arealplan II",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravet er det samme som for masterprogra.."
+    },
+    {
+        "cource_code": "BYG513-G",
+        "course_name": "Konstruksjonsteknikk V – Utmatting og konstruksjonsdynamikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravet er det samme som for masterprogra.."
+    },
+    {
+        "cource_code": "BYG514-G",
+        "course_name": "Konstruksjonsteknikk VI – Tre",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravet er det samme som for master bygg"
+    },
+    {
+        "cource_code": "BYG515-G",
+        "course_name": "Spesialiseringsprosjekt",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravet er det samme som for master bygg"
+    },
+    {
+        "cource_code": "BYG516-G",
+        "course_name": "Spesialiseringsprosjekt",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravet er det samme som for master bygg"
+    },
+    {
+        "cource_code": "BYG518-1",
+        "course_name": "Masterstudent i forskning",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Samme som for masterprogrammet i bygg."
+    },
+    {
+        "cource_code": "DAT100-G",
+        "course_name": "Datateknikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "DAT101-G",
+        "course_name": "Programmering Grunnkurs",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "DAT104-G",
+        "course_name": "Multimediedesign",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "DAT110-G",
+        "course_name": "Webpublisering",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "DAT200-G",
+        "course_name": "Grafisk databehandling",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "DAT215-G",
+        "course_name": "IKT-prosjekt",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "DAT230-G",
+        "course_name": "Authoring Software",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "ELE216-G",
+        "course_name": "Analog elektronikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "ELE220-G",
+        "course_name": "Mikrokontrollere og styresystemer",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "ELE302-G",
+        "course_name": "Aksess i trådløse nettverk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "ELE303-G",
+        "course_name": "Kraftelektronikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "ELE304-G",
+        "course_name": "Advanced embedded systems",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "EN-122-1",
+        "course_name": "Engelsk fonetikk og fonologi",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Higher Education Entrance Qualification."
+    },
+    {
+        "cource_code": "EN-123-2",
+        "course_name": "Business English",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "EN-139-1",
+        "course_name": "Business English",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "EN-153-1",
+        "course_name": "Engelsk litteratur, kulturkunnskap og didaktikk 1",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "For enkeltemnestudenter: fullført lærerutdanning r.."
+    },
+    {
+        "cource_code": "EN-159-1",
+        "course_name": "Engelsk språk, litteratur, kultur og didaktikk i kontekst",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "For enkeltemnestudenter: fullført lærerutdanning r.."
+    },
+    {
+        "cource_code": "EN-166-1",
+        "course_name": "American and British Literature: Part 1",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Higher Education Entrance Qualification."
+    },
+    {
+        "cource_code": "EN-168-1",
+        "course_name": "English in Academia",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Higher Education Entrance Qualification."
+    },
+    {
+        "cource_code": "EN-220-1",
+        "course_name": "Literary Time Period or Movement",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Higher Education Entrance Qualification and 45 ECT.."
+    },
+    {
+        "cource_code": "EN-222-1",
+        "course_name": "Concepts and Approaches in English Linguistics",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Higher Education Entrance Qualification and 50 ECT.."
+    },
+    {
+        "cource_code": "EN-444-1",
+        "course_name": "Engelsk litteratur, kultur og læring",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "For enkeltemnestudenter: fullført lærerutdanning r.."
+    },
+    {
+        "cource_code": "EN-447-1",
+        "course_name": "Engelsk språk og læring",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "For enkeltemnestudenter: fullført lærerutdanning r.."
+    },
+    {
+        "cource_code": "EN-454-1",
+        "course_name": "Forskningsmetoder for språkstudier, språkvitenskap og overse..",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til masterprogram i Master i engels.."
+    },
+    {
+        "cource_code": "EN-455-1",
+        "course_name": "Literary Theory &amp; Analysis",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Same admission requirements apply as for the mas.."
+    },
+    {
+        "cource_code": "EN-466-1",
+        "course_name": "The Fantastic Imagination",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Identical to the admissions requirements for the pr.."
+    },
+    {
+        "cource_code": "EN-467-1",
+        "course_name": "Discourse Analysis",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Identical to the admissions requirements for the pr.."
+    },
+    {
+        "cource_code": "EN-469-1",
+        "course_name": "Language Acquisition",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Identical to the admissions requirements for the pr.."
+    },
+    {
+        "cource_code": "EN-476-1",
+        "course_name": "Literature and the Visual Arts",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Identical to the admissions requirements for the pr.."
+    },
+    {
+        "cource_code": "ENE234-G",
+        "course_name": "Varmesystemer og energieffektive bygninger",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "ENE235-G",
+        "course_name": "Elektromagnetisme",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "ENE240-G",
+        "course_name": "Vannkraft",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "ENE243-G",
+        "course_name": "Vindkraft",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "ENE410-G",
+        "course_name": "Fluid Dynamics and Hydro Power",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "ENE419-G",
+        "course_name": "Solar Cell Technology and Applications",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "ENE420-G",
+        "course_name": "Bioenergy",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "ENE423-G",
+        "course_name": "Batterisystemer",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "ENE503-G",
+        "course_name": "Energy Research Project 1",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "ENE505-G",
+        "course_name": "Power Electronics for Renewable Energy",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "ERN128-1",
+        "course_name": "Mat og ernæring",
+        "faculty": "Fakultet for helse- og idrett..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Opptakskrav for enkeltemnestudenter er fullført l.."
+    },
+    {
+        "cource_code": "ERN129-1",
+        "course_name": "Mat og undervisning",
+        "faculty": "Fakultet for helse- og idrett..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Opptakskrav for enkeltemnestudenter er fullført l.."
+    },
+    {
+        "cource_code": "ERN400-1",
+        "course_name": "Mat og kultur i et samfunnsperspektiv",
+        "faculty": "Fakultet for helse- og idrett..",
+        "study_type": "Masternivå",
+        "cource_requirements": "&lt;p&gt;Fullført lærerutdanning rettet inn mot grunnsk.."
+    },
+    {
+        "cource_code": "ERN402-1",
+        "course_name": "Mat og livsstil i et helsefremmende perspektiv",
+        "faculty": "Fakultet for helse- og idrett..",
+        "study_type": "Masternivå",
+        "cource_requirements": "&lt;p&gt;Fullført lærerutdanning rettet inn mot grunnsk.."
+    },
+    {
+        "cource_code": "ERN403-1",
+        "course_name": "Mat og kultur i et samfunnsperspektiv",
+        "faculty": "Fakultet for helse- og idrett..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Fullført lærerutdanning rettet inn mot grunnskolen.."
+    },
+    {
+        "cource_code": "ERN404-1",
+        "course_name": "Mat og livsstil i et helsefremmende perspektiv",
+        "faculty": "Fakultet for helse- og idrett..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Fullført lærerutdanning rettet inn mot grunnskolen.."
+    },
+    {
+        "cource_code": "EX-100-1",
+        "course_name": "Examen philosophicum",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "EX-102-1",
+        "course_name": "Examen facultatum humanioravariant",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "EX-105-1",
+        "course_name": "Examen facultatum pedagogisk variant",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "EX-109-G",
+        "course_name": "Filosofi for mediefag og teknologi",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "EX-112-1",
+        "course_name": "Exam Philosophicum (engelsk)",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Higher Education Entrance Qualification."
+    },
+    {
+        "cource_code": "FIL100-1",
+        "course_name": "Kunnskapsteori og vitenskapsfilosofi",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "FIL103-1",
+        "course_name": "Filosofihistorie",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "FIL104-1",
+        "course_name": "Logikk og argumentasjonslære",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "FIL200-1",
+        "course_name": "Spillteori og filosofi",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "FIL203-1",
+        "course_name": "Anvendt filosofi: aktuelle temaer",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "FR-131-1",
+        "course_name": "Fransk språk 1",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "FR-132-1",
+        "course_name": "Fransk litteratur 1",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "FR-133-1",
+        "course_name": "Praktisk fransk og kulturkunnskap 1",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "FRI100-1",
+        "course_name": "Friluftslivsteori",
+        "faculty": "Fakultet for helse- og idrett..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "FYS131-1",
+        "course_name": "Mekanikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "FYS133-1",
+        "course_name": "Numeriske og eksperimentelle metoder i fysikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse og matematikk R1(eller.."
+    },
+    {
+        "cource_code": "FYS134-1",
+        "course_name": "Optikk, termodynamikk og elektrisitet",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse og matematikk R1(eller.."
+    },
+    {
+        "cource_code": "FYS137-1",
+        "course_name": "Introduksjon til fysikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse og matematikk R1(eller.."
+    },
+    {
+        "cource_code": "HEL100-2",
+        "course_name": "Folkehelsearbeid - begrepsavklaring og verdigrunnlag",
+        "faculty": "Fakultet for helse- og idrett..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "HEL424-1",
+        "course_name": "Strukturelle betingelser for det systematiske folkehelsearbeidet",
+        "faculty": "Fakultet for helse- og idrett..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til master i folkehelsevitenskap"
+    },
+    {
+        "cource_code": "HI-100-2",
+        "course_name": "Globalhistorie – rikdom og fattigdom i verdenshistorien",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "HI-110-1",
+        "course_name": "Introduksjon til europeisk og norsk historie i middelalder og tidl..",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "HI-124-1",
+        "course_name": "Kriminalitet, kjønn og samfunn i Norge ca. 1500-1700",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "HI-139-1",
+        "course_name": "Introduction to historical consciousness",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Higher Education Entrance Qualification."
+    },
+    {
+        "cource_code": "HI-226-1",
+        "course_name": "Reproduksjon gjennom historien: Kropp, Makt og Kjønn",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "IKT101-G",
+        "course_name": "Grunnleggende softwareutvikling",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Admission requirements are the same as for the en.."
+    },
+    {
+        "cource_code": "IKT115-1",
+        "course_name": "Introduksjon til kunstig intelligens-teknologi",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "IKT202-G",
+        "course_name": "Software Engineering",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "IKT203-G",
+        "course_name": "Algoritmer og datastrukturer",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "IKT210-G",
+        "course_name": "Skyinfrastruktur",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "IKT211-G",
+        "course_name": "Penetration Testing",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "IKT212-G",
+        "course_name": "Programmeringskonsepter",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "IKT213-G",
+        "course_name": "Machine Vision",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "IKT217-G",
+        "course_name": "Risikostyring for cybersikkerhet",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "IKT222-G",
+        "course_name": "Softwaresikkerhet",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "IKT301-G",
+        "course_name": "Anvendte algoritmer",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "IKT436-G",
+        "course_name": "Advanced Internet Services and Protocols",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "IKT444-G",
+        "course_name": "Mobile Communication Networks",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "IKT445-G",
+        "course_name": "Generative programming",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements are the same as for the ma.."
+    },
+    {
+        "cource_code": "IKT447-G",
+        "course_name": "Tillit, trusler, risiko og sårbarheter",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravene til emnet er de samme som for ma.."
+    },
+    {
+        "cource_code": "IKT448-G",
+        "course_name": "IKT-forskningsmetoder",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravene til emnet er de samme som for ma.."
+    },
+    {
+        "cource_code": "IKT450-G",
+        "course_name": "Deep Neural Networks",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "IKT454-G",
+        "course_name": "5G and IoT: Fundamentals",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "IKT455-G",
+        "course_name": "Introduction to Embedded and Edge Computing Systems",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "IKT456-G",
+        "course_name": "Artificial Intelligence Engineering",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "IKT457-G",
+        "course_name": "Learning Systems",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "IKT464-G",
+        "course_name": "Advanced ICT Project",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "IKT518-G",
+        "course_name": "Sikkerhetsprotokoller",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravene til emnet er de samme som for ma.."
+    },
+    {
+        "cource_code": "IKT521-G",
+        "course_name": "Kryptografi og kryptografiske systemer",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravene til emnet er de samme som for ma.."
+    },
+    {
+        "cource_code": "IKT522-G",
+        "course_name": "Software sikkerhet og etisk hacking",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravene til emnet er de samme som for ma.."
+    },
+    {
+        "cource_code": "IKT524-G",
+        "course_name": "Digital Health: Advanced",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "IND418-G",
+        "course_name": "Kontinuerlig forbedring og Lean",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Masternivå",
+        "cource_requirements": "Samme opptakskrav som for toårig masterprogram.."
+    },
+    {
+        "cource_code": "INF120-1",
+        "course_name": "Programmering med anvendelser i matematikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "ING100-G",
+        "course_name": "Programmering og IKT-sikkerhet",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "IS-115-1",
+        "course_name": "Webprogrammering i PHP",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "IS-216-1",
+        "course_name": "Data Science Applications",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Higher Education Entrance Qualification and additi.."
+    },
+    {
+        "cource_code": "IS-403-1",
+        "course_name": "Digital transformasjon og prosessledelse",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til Informasjonssystemer, masterpr.."
+    },
+    {
+        "cource_code": "IS-406-1",
+        "course_name": "Digitale teknologier og forretningssystemer",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til Informasjonssystemer, masterpr.."
+    },
+    {
+        "cource_code": "IS-511-1",
+        "course_name": "Managing IT and systems development",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Masternivå",
+        "cource_requirements": "The same admission requirements as for Master in I.."
+    },
+    {
+        "cource_code": "JU-208-1",
+        "course_name": "Skatterett 1",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "BE-111 Innføring i finansregnskap eller tilsvarende .."
+    },
+    {
+        "cource_code": "JU-300-1",
+        "course_name": "Arbeidsrett og arbeidsmiljø",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "JUR403-1",
+        "course_name": "EU and EEA Commercial Law",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements are the same as for the ma.."
+    },
+    {
+        "cource_code": "JUR404-1",
+        "course_name": "Konkurranserett",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til masterprogram i rettsvitenskap."
+    },
+    {
+        "cource_code": "JUR405-1",
+        "course_name": "International Human Rights Law and Institutions",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Masternivå",
+        "cource_requirements": "Same as for admission to the master’s programme i.."
+    },
+    {
+        "cource_code": "JUR406-1",
+        "course_name": "Comparative Contract Law",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Masternivå",
+        "cource_requirements": "Same as for admission to the master’s programme i.."
+    },
+    {
+        "cource_code": "JUR500-1",
+        "course_name": "Offentlige anskaffelser",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til masterprogram i rettsvitenskap."
+    },
+    {
+        "cource_code": "KOM111-1",
+        "course_name": "Medier og samfunn",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "KOM114-1",
+        "course_name": "Skrift og bilde",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "KOM205-1",
+        "course_name": "Journalistikk og presserelatert PR",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Bestått minst 45 studiepoeng fra første år i bachel.."
+    },
+    {
+        "cource_code": "KOM209-1",
+        "course_name": "Metode for medie- og kommunikasjonsstudier",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Bestått minst 45 studiepoeng fra første år i bachel.."
+    },
+    {
+        "cource_code": "MA-183-1",
+        "course_name": "Kalkulus 1",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MA-187-1",
+        "course_name": "Kjerneelementer i matematikk 1",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MA-190-1",
+        "course_name": "Innføringsemne i matematikk for mellomtrinnet",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "&lt;p&gt;For enkeltemnestudenter: fullført lærerutdanni.."
+    },
+    {
+        "cource_code": "MA-222-G",
+        "course_name": "Matematikk 3",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "MA-223-G",
+        "course_name": "Statistikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "MA-224-G",
+        "course_name": "Diskret matematikk 2",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "MA-225-1",
+        "course_name": "Statistisk maskinlæring",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MA-226-1",
+        "course_name": "Differensiallikninger",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MA-307-G",
+        "course_name": "Matematikk 4",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse med R1, R2 og Fysikk 1 .."
+    },
+    {
+        "cource_code": "MA-308-G",
+        "course_name": "Numeriske metoder",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MA-309-1",
+        "course_name": "Integrasjon og sannsynlighet",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MA-310-1",
+        "course_name": "Ikke-lineære differensiallikninger og dynamiske systemer",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MA-313-1",
+        "course_name": "Fourieranalyse",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MA-447-G",
+        "course_name": "AI Mathematics",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "MA-449-1",
+        "course_name": "Topologi og målteori",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Samme som for masterprogrammet i matematikk"
+    },
+    {
+        "cource_code": "MA-453-1",
+        "course_name": "Matematikk i klasserommet",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Samme som for masterprogrammet i matematikk"
+    },
+    {
+        "cource_code": "MA-454-1",
+        "course_name": "Undervisningskunnskap om digitale verktøy i skolematematikk..",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Samme som for masterprogrammet i matematikk"
+    },
+    {
+        "cource_code": "MA-455-1",
+        "course_name": "Forskningsmetode",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Samme som for masterprogrammet i matematikk"
+    },
+    {
+        "cource_code": "MA-456-1",
+        "course_name": "Teoretiske perspektiver på matematikkundervisning",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Samme som for masterprogrammet i matematikk"
+    },
+    {
+        "cource_code": "MAS132-G",
+        "course_name": "3D Design",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS134-G",
+        "course_name": "Elektriske kretser og digitalteknikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS135-G",
+        "course_name": "Materialteknologi",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS236-G",
+        "course_name": "Maskinelementer og FEM 1",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS237-G",
+        "course_name": "Aktueringssystemer 1",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS239-G",
+        "course_name": "Reguleringsteknikk 1",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS242-G",
+        "course_name": "Produktutvikling",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS245-G",
+        "course_name": "Innebygde datasystemer for mekatronikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS246-G",
+        "course_name": "Servoteknikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS247-G",
+        "course_name": "Industriell IT",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS248-G",
+        "course_name": "Robotteknologi",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS308-G",
+        "course_name": "Maskinelementer og FEM 2",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS410-G",
+        "course_name": "Hydraulikkomponenter og -systemer",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS412-G",
+        "course_name": "Maskinelementer",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Samme som for masterprogrammet i mekatronikk."
+    },
+    {
+        "cource_code": "MAS416-G",
+        "course_name": "Modellering og simulering av mekatroniske systemer",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Samme som for masterprogrammet i mekatronikk."
+    },
+    {
+        "cource_code": "MAS417-G",
+        "course_name": "Programmering og programvareutvikling",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS419-1",
+        "course_name": "Modellering og simulering av mekatroniske systemer",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Samme som for masterprogrammet i mekatronikk"
+    },
+    {
+        "cource_code": "MAS508-G",
+        "course_name": "Reguleringsteknikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS509-G",
+        "course_name": "Biomechanical and biomedical instrumentation",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS510-G",
+        "course_name": "Project Assistive Technology",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS511-G",
+        "course_name": "Bio-mechatronics",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS512-G",
+        "course_name": "Maskinsyn og innebygd KI",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Samme som for masterprogrammet i mekatronikk."
+    },
+    {
+        "cource_code": "MAS513-G",
+        "course_name": "Avansert Robotikk",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS514-G",
+        "course_name": "Robotikk og Instrumentering",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS515-G",
+        "course_name": "Maskintekniske systemer 3",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MAS516-G",
+        "course_name": "Prosjekt – design av industrielle mekatroniske systemer",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "ME-100-1",
+        "course_name": "Samfunnsvitenskapelig metode",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "ME-111-1",
+        "course_name": "Innføring i dataanalyse",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "ME-200-1",
+        "course_name": "Innføring i vitenskapelig metode og statistikk",
+        "faculty": "Fakultet for helse- og idrett..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "ME-400-1",
+        "course_name": "Metode og statistikk",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "ME-439-1",
+        "course_name": "Scientific theory and method",
+        "faculty": "Fakultet for helse- og idrett..",
+        "study_type": "Masternivå",
+        "cource_requirements": "As for the master's program in special nursing"
+    },
+    {
+        "cource_code": "MF-302-1",
+        "course_name": "Brand Management and Advertising",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "MF-102 Marketing and MF-205 Consumer Behaviou.."
+    },
+    {
+        "cource_code": "MM-206-G",
+        "course_name": "Applikasjonsutvikling 1",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MM-403-G",
+        "course_name": "Interaction Design",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "The admission requirements for the course are the .."
+    },
+    {
+        "cource_code": "MM-409-G",
+        "course_name": "Lifelong Learning and Mobile Education",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "The admission requirements for the course are the .."
+    },
+    {
+        "cource_code": "MM-410-G",
+        "course_name": "Applied 21st Century Skills",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "MM-411-G",
+        "course_name": "E-Teaching I - Pedagogy and Learning/Instructional Design",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "MM-505-G",
+        "course_name": "Virtual and Augmented Reality",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "MU-400-1",
+        "course_name": "Music Business I",
+        "faculty": "Fakultet for kunstfag",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "NAT116-1",
+        "course_name": "Naturfag 1C",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "For enkeltemnestudenter: fullført lærerutdanning"
+    },
+    {
+        "cource_code": "NAT119-1",
+        "course_name": "Naturvitenskapenes utvikling og egenart",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Fullført lærerutdanning"
+    },
+    {
+        "cource_code": "NO-141-1",
+        "course_name": "Innføring i norsk som andrespråk og kulturkunnskap",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "NO-157-1",
+        "course_name": "Norsk for barnetrinnet 3",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Enkeltemnestudentar må ha fullført lærarutdannin.."
+    },
+    {
+        "cource_code": "NO-159-1",
+        "course_name": "Norsk for ungdomstrinnet",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Fullført lærarutdanning retta inn mot grunnskolen .."
+    },
+    {
+        "cource_code": "NO-163-1",
+        "course_name": "Å analysere litteratur",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Ja, med forbehold om ledig plass/kapasitet"
+    },
+    {
+        "cource_code": "NO-164-1",
+        "course_name": "Å lese klassikere",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "NO-166-1",
+        "course_name": "Norsk grammatikk",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "NO-209-1",
+        "course_name": "Litteraturteori og tekstanalyse",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Norsk 2 (ALU) eller 60 studiepoeng norsk fra grunns.."
+    },
+    {
+        "cource_code": "NO-218-1",
+        "course_name": "Språk i Norden",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Norsk 2 (ALU) eller 60 studiepoeng norsk fra grunns.."
+    },
+    {
+        "cource_code": "NO-401-1",
+        "course_name": "Fordypningsemne 1, språk",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til masterprogrammet i nordisk spr.."
+    },
+    {
+        "cource_code": "NO-403-1",
+        "course_name": "Fordypningsemne 1, litteratur",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til masterprogrammet i nordisk spr.."
+    },
+    {
+        "cource_code": "NO-409-1",
+        "course_name": "Skrift og tale, språkleg mangfald i skolen",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Fullført og bestått grunnskolelærarutdanning med.."
+    },
+    {
+        "cource_code": "NO-410-1",
+        "course_name": "Barnelitteratur",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Fullført allmennlærarutdanning eller grunnskolelæ.."
+    },
+    {
+        "cource_code": "NO-413-1",
+        "course_name": "Skrift og tale, språkleg mangfald i skolen",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Bestått grunnskolelærarutdanning med minimum 6.."
+    },
+    {
+        "cource_code": "NO-414-1",
+        "course_name": "Ungdomslitteratur",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Fullført grunnskolelærarutdanning med minimum 6.."
+    },
+    {
+        "cource_code": "NO-416-1",
+        "course_name": "Litteraturteori",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til masterprogrammet i nordisk spr.."
+    },
+    {
+        "cource_code": "NO-417-1",
+        "course_name": "Språkteori",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til masterprogrammet i nordisk spr.."
+    },
+    {
+        "cource_code": "NO-421-1",
+        "course_name": "Norsk språk og tekst, fagspråk og terminologi",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til masterprogram i Oversettelse og.."
+    },
+    {
+        "cource_code": "OF-406-1",
+        "course_name": "Grunnspørsmål i oversettelsesvitenskap",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til masterprogram i Oversettelse og.."
+    },
+    {
+        "cource_code": "OF-407-1",
+        "course_name": "Fagspråklig oversettelse: tekniske og medisinske tekster",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til masterprogram i Oversettelse og.."
+    },
+    {
+        "cource_code": "OF-410-1",
+        "course_name": "Fagspråklig oversettelse: juridiske tekster og tekster for offent..",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Som for opptak til masterprogram i Oversettelse og.."
+    },
+    {
+        "cource_code": "ORG100-1",
+        "course_name": "Organisasjonsteori og analyse",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "ORG313-1",
+        "course_name": "Gründer Lab and Entrepreneurship Laboratory",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "ORG126 Entrepreneurship and Innovation, MF-102 .."
+    },
+    {
+        "cource_code": "ORG447-1",
+        "course_name": "Styring og nettverksorganisering i offentlig sektor",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravet er det samme som for master i stats.."
+    },
+    {
+        "cource_code": "ORG453-G",
+        "course_name": "Communication, Cooperation and Research Methods",
+        "faculty": "Fakultet for teknologi og re..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Admission requirements for the course are the sam.."
+    },
+    {
+        "cource_code": "PED229-2",
+        "course_name": "Pedagogisk profesjonalitet",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "PED315-1",
+        "course_name": "Veiledningsteori og -metode I",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "PED322-1",
+        "course_name": "Småbarnspedagogikk",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "&lt;p&gt;Fullført og bestått minimum 60 studiepoeng fra.."
+    },
+    {
+        "cource_code": "PED534-1",
+        "course_name": "Barnehagens læringsmiljø",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "REL116-1",
+        "course_name": "Religion i det moderne Norge",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "REL117-1",
+        "course_name": "Jødedom, kristendom og humanisme",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "REL118-1",
+        "course_name": "Hinduisme, buddhisme og islam",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "REL125-1",
+        "course_name": "Innføring i kristendom, religion, livssyn og etikk 1",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Enkeltemnestudenter må ha fullført lærerutdannin.."
+    },
+    {
+        "cource_code": "REL129-1",
+        "course_name": "Innføring i kristendom, religion, livssyn og etikk 1",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Enkeltemnestudenter må ha fullført lærerutdannin.."
+    },
+    {
+        "cource_code": "REL130-1",
+        "course_name": "Innføring i kristendom, religion, livssyn og etikk 2",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Fullført lærerutdanning rettet inn mot grunnskolen.."
+    },
+    {
+        "cource_code": "REL206-1",
+        "course_name": "Globale trender på religionsfeltet: radikalisering, vold og populi..",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse."
+    },
+    {
+        "cource_code": "REL411-1",
+        "course_name": "Religion og samfunn 1: Religion i Norge",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravet er det samme som for masterprogra.."
+    },
+    {
+        "cource_code": "REL412-1",
+        "course_name": "Teori og metode",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Opptakskravet er det samme som for masterprogra.."
+    },
+    {
+        "cource_code": "SE-213-1",
+        "course_name": "Mikroøkonomi",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "SE-112-1 Principles of Economics or equivalent and .."
+    },
+    {
+        "cource_code": "SE-307-1",
+        "course_name": "Environmental and Resource Economics",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "SE-213 Microeconomics or equivalent is required fo.."
+    },
+    {
+        "cource_code": "SPA115-1",
+        "course_name": "Spansk språk 1",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "SPA116-1",
+        "course_name": "Litteratur og kultur 1",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "ST-100-1",
+        "course_name": "Offentlig politikk og administrasjon I",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "ST-200-1",
+        "course_name": "Offentlig politikk og administrasjon II",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "ST-400-2",
+        "course_name": "Political Systems and Governance",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "ST-412-1",
+        "course_name": "Styringsverktøy i offentlig forvaltning",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Masternivå",
+        "cource_requirements": "Tilsvarende opptakskrav som for master i statsvite.."
+    },
+    {
+        "cource_code": "SV-218-1",
+        "course_name": "Avvik, kriminalitet og straff",
+        "faculty": "Fakultet for samfunnsviten..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "TEA102-1",
+        "course_name": "Se - teater",
+        "faculty": "Fakultet for kunstfag",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "TFL126-1",
+        "course_name": "Etikk, bærekraft og bedrifters samfunnsansvar",
+        "faculty": "Handelshøyskolen ved UiA",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Generell studiekompetanse"
+    },
+    {
+        "cource_code": "TY-121-1",
+        "course_name": "Tysk litteratur, historie og kultur 1",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    },
+    {
+        "cource_code": "TY-125-1",
+        "course_name": "Tysk språk 1",
+        "faculty": "Fakultet for humaniora og p..",
+        "study_type": "Bachelornivå",
+        "cource_requirements": "Se emnebeskrivelse"
+    }
+]

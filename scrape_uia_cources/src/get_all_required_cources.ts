@@ -1,43 +1,57 @@
 import type { Browser, Element } from "https://deno.land/x/puppeteer@9.0.2/mod.ts";
 import type { Cource } from "./datatypes.d.ts";
 
+const mekatronikk_url = "https://www.uia.no/studier/program/mekatronikk-bachelor/studieplaner/2024h.html";
+const computer_science_url = "https://www.uia.no/studier/program/data-ingeniorutdanning-bachelor/studieplaner/2024h.html";
 
-export async function get_all_required_cources(browser: Browser, url: string): Promise<Cource[]> {
+export async function get_all_required_cources(browser: Browser): Promise<Cource[][]> {
     console.log("****************************************");
     console.log("***** getting all required cources *****");
     console.log("****************************************");
 
+    const results: Cource[][] = [];
+
+    // Fetch data for both programs
+    const mekatronikkCources = await scrape_data(browser, mekatronikk_url, 'mechatronics');
+    const computerScienceCources = await scrape_data(browser, computer_science_url, 'computer_science');
+
+    results.push(mekatronikkCources);
+    results.push(computerScienceCources);
+
+    return results;
+}
+
+async function scrape_data(browser: Browser, url: string, page_flow: string): Promise<Cource[]> {
     const page = await browser.newPage();
 
     try {
-        console.log("3. navigating to page");
-        // Navigate to page and wait for network to be idle
+        console.log(`Scraping data from ${url}`);
         await page.goto(url, {
             waitUntil: 'networkidle0',
             timeout: 30000
         });
 
-        // Wait for specific element to be visible
-        console.log("4. waiting for specific element to be visible");
-        await page.waitForSelector('#direction-select-INGMASK324SO');
+        switch (page_flow) {
+            case 'mechatronics':
+                await page.waitForSelector('#direction-select-INGMASK324SO');
+                await page.click('#direction-select-INGMASK324SO');
+                break;
+            case 'computer_science':
+                await page.waitForSelector(`#direction-select-INGDATA24SO`);
+                await page.click(`#direction-select-INGDATA24SO`);
+                await page.waitForSelector(`#direction-select-INGDATA24SWU`);
+                await page.click(`#direction-select-INGDATA24SWU`);
+                break;
+        }
 
-        // Click a button
-        console.log("5. clicking button");
-        await page.click('#direction-select-INGMASK324SO');
-
-        // Wait for course code elements to be loaded
-        console.log("6. waiting for course code elements to be loaded");
         await page.waitForSelector('li.mandatory', {
             timeout: 30000,
             visible: true
         });
 
-        // Get all mandatory course elements
-        console.log("7. getting all mandatory course elements");
         const mandatoryCourses = await page.$$('li.mandatory');
-
-        console.log("8. looping through mandatory courses");
         const cources: Cource[] = [];
+
         for (const course of mandatoryCourses) {
             const courseCode = await course.$eval('span.course-code', (el: Element) => el.innerHTML);
             const coursePoints = await course.$eval('span.course-study-points > span', (el: Element) => parseFloat(el.innerHTML));
@@ -49,13 +63,10 @@ export async function get_all_required_cources(browser: Browser, url: string): P
                 cource_name: String(courseName)
             });
         }
-        // delete all duplicates
-        const uniqueCources = cources.filter((cource, index, self) =>
-            index === self.findIndex((t) => (
-                t.cource_code === cource.cource_code
-            ))
+
+        return cources.filter((cource, index, self) =>
+            index === self.findIndex((t) => t.cource_code === cource.cource_code)
         );
-        return uniqueCources;
 
     } catch (error) {
         console.error('Error scraping courses:', error);
